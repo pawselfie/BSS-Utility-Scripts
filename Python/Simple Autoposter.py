@@ -1,6 +1,6 @@
 # This script serves as a simple autoposter, and will send any message you specify every 2 minutes
 
-import requests # Make sure you run 'pip install requests' as request module is not enabled by default
+import requests # Make sure you run 'pip install requests' as request module is not installed by default
 import time
 
 url = "url" # Url to the channel you want to autopost in
