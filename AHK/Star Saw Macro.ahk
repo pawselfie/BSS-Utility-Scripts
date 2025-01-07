@@ -1,3 +1,5 @@
+; This macro sends 4 every 10 seconds, making star saw active 24/7 as long as this is running
+
 Toggle := 0
 
 GuiColorDefault := "Silver"
